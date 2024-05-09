@@ -1,0 +1,149 @@
+Nodes ordered by outgoing degree:
+James Duffy 30
+Benziger Brothers 28
+P.J. Kenedy 17
+M.H. Gill & Sons 14
+John Coyne 13
+Richard Grace 12
+Thomas Sweeney 11
+Catholic Publication Society 10
+J.B. Kirker 8
+Flynn & Mahony 7
+P. Donahoe 7
+Burns and Oates 6
+E. Cummiskey 5
+D. & J. Sadlier & Co. 5
+C. Wildermann 5
+P. O'Shea 5
+T.B. Noonan 4
+M.T. Cozans 3
+D. O'Halloran 3
+J. Murphy 3
+T.W. Strong 3
+Fielding Lucas, JR. 3
+Uknown 2
+Fr. Pustet 1
+M. Sullivan 1
+B. Herder 1
+J.B. Piet 1
+Webb and Levering 1
+Thomas Richardson & Son 0
+William McSorley & Co. 0
+J. P. Walsh 0
+J. and C. Mozley 0
+George Quigley & Co 0
+Redemptorist fathers 0
+P.F. Cunningham 0
+H. & C. McGrath 0
+Paulist Press 0
+Augustin Coté & Co. 0
+C.M. Warren 0
+P. J. Kenedy 0
+Catholic Press Association 0
+John J. Bodkin 0
+J.M. O'Toole 0
+T. Washbourne 0
+THE REFORMATION SOCIETY 0
+J.B. Lippincott 0
+Felix O'Rourke 0
+Edward Dunigan & Brother 0
+
+Nodes ordered by incoming degree:
+Benziger Brothers 46
+T. Washbourne 31
+Edward Dunigan & Brother 20
+M.H. Gill & Sons 17
+P. O'Shea 11
+Burns and Oates 9
+C.M. Warren 8
+James Duffy 7
+P. Donahoe 7
+P.J. Kenedy 6
+J.B. Lippincott 6
+J.B. Kirker 5
+Webb and Levering 5
+Redemptorist fathers 4
+Catholic Press Association 4
+H. & C. McGrath 3
+T.W. Strong 3
+John J. Bodkin 3
+Thomas Sweeney 2
+Fielding Lucas, JR. 2
+Augustin Coté & Co. 2
+Catholic Publication Society 1
+Uknown 1
+E. Cummiskey 1
+J. Murphy 1
+George Quigley & Co 1
+C. Wildermann 1
+B. Herder 1
+Felix O'Rourke 1
+Fr. Pustet 0
+Thomas Richardson & Son 0
+William McSorley & Co. 0
+Richard Grace 0
+J. P. Walsh 0
+M. Sullivan 0
+J. and C. Mozley 0
+M.T. Cozans 0
+John Coyne 0
+D. O'Halloran 0
+Flynn & Mahony 0
+D. & J. Sadlier & Co. 0
+P.F. Cunningham 0
+T.B. Noonan 0
+J.B. Piet 0
+Paulist Press 0
+P. J. Kenedy 0
+J.M. O'Toole 0
+THE REFORMATION SOCIETY 0
+
+Nodes ordered by overall degree:
+Benziger Brothers 74
+James Duffy 37
+M.H. Gill & Sons 31
+T. Washbourne 31
+P.J. Kenedy 23
+Edward Dunigan & Brother 20
+P. O'Shea 16
+Burns and Oates 15
+P. Donahoe 14
+John Coyne 13
+Thomas Sweeney 13
+J.B. Kirker 13
+Richard Grace 12
+Catholic Publication Society 11
+C.M. Warren 8
+Flynn & Mahony 7
+E. Cummiskey 6
+C. Wildermann 6
+T.W. Strong 6
+Webb and Levering 6
+J.B. Lippincott 6
+D. & J. Sadlier & Co. 5
+Fielding Lucas, JR. 5
+J. Murphy 4
+Redemptorist fathers 4
+T.B. Noonan 4
+Catholic Press Association 4
+Uknown 3
+M.T. Cozans 3
+D. O'Halloran 3
+H. & C. McGrath 3
+John J. Bodkin 3
+B. Herder 2
+Augustin Coté & Co. 2
+Fr. Pustet 1
+M. Sullivan 1
+George Quigley & Co 1
+J.B. Piet 1
+Felix O'Rourke 1
+Thomas Richardson & Son 0
+William McSorley & Co. 0
+J. P. Walsh 0
+J. and C. Mozley 0
+P.F. Cunningham 0
+Paulist Press 0
+P. J. Kenedy 0
+J.M. O'Toole 0
+THE REFORMATION SOCIETY 0
