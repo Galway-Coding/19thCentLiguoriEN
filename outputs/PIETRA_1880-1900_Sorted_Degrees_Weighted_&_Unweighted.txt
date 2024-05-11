@@ -1,0 +1,60 @@
+Nodes ordered by outgoing degree:
+Benziger Brothers 34
+T. Washbourne 14
+C. Wildermann 2
+B. Herder 2
+Burns and Oates 2
+P.J. Kenedy 1
+Redemptorist fathers 0
+J. Murphy 0
+Catholic Press Association 0
+James Duffy 0
+M.H. Gill & Sons 0
+John J. Bodkin 0
+J.B. Piet 0
+Catholic Publication Society 0
+Paulist Press 0
+P. O'Shea 0
+Fr. Pustet 0
+
+Nodes ordered by incoming degree:
+M.H. Gill & Sons 29
+T. Washbourne 14
+Redemptorist fathers 3
+John J. Bodkin 2
+P. O'Shea 2
+Fr. Pustet 2
+P.J. Kenedy 1
+Burns and Oates 1
+Catholic Publication Society 1
+Benziger Brothers 0
+J. Murphy 0
+C. Wildermann 0
+Catholic Press Association 0
+B. Herder 0
+James Duffy 0
+J.B. Piet 0
+Paulist Press 0
+
+Nodes ordered by overall degree:
+Benziger Brothers 34
+M.H. Gill & Sons 29
+T. Washbourne 28
+Redemptorist fathers 3
+Burns and Oates 3
+C. Wildermann 2
+P.J. Kenedy 2
+B. Herder 2
+John J. Bodkin 2
+P. O'Shea 2
+Fr. Pustet 2
+Catholic Publication Society 1
+J. Murphy 0
+Catholic Press Association 0
+James Duffy 0
+J.B. Piet 0
+Paulist Press 0
+
+Outgoing Weighted Degrees: {'Benziger Brothers': 44, 'T. Washbourne': 18, 'C. Wildermann': 2, 'B. Herder': 2, 'Burns and Oates': 2, 'P.J. Kenedy': 1, 'Redemptorist fathers': 0, 'J. Murphy': 0, 'Catholic Press Association': 0, 'James Duffy': 0, 'M.H. Gill & Sons': 0, 'John J. Bodkin': 0, 'J.B. Piet': 0, 'Catholic Publication Society': 0, 'Paulist Press': 0, "P. O'Shea": 0, 'Fr. Pustet': 0}
+Incoming Weighted Degrees: {'M.H. Gill & Sons': 37, 'T. Washbourne': 18, 'Redemptorist fathers': 3, 'P.J. Kenedy': 3, 'John J. Bodkin': 2, "P. O'Shea": 2, 'Fr. Pustet': 2, 'Burns and Oates': 1, 'Catholic Publication Society': 1, 'Benziger Brothers': 0, 'J. Murphy': 0, 'C. Wildermann': 0, 'Catholic Press Association': 0, 'B. Herder': 0, 'James Duffy': 0, 'J.B. Piet': 0, 'Paulist Press': 0}
+Overall Weighted Degrees: {'Benziger Brothers': 44, 'M.H. Gill & Sons': 37, 'T. Washbourne': 36, 'P.J. Kenedy': 4, 'Redemptorist fathers': 3, 'Burns and Oates': 3, 'C. Wildermann': 2, 'B. Herder': 2, 'John J. Bodkin': 2, "P. O'Shea": 2, 'Fr. Pustet': 2, 'Catholic Publication Society': 1, 'J. Murphy': 0, 'Catholic Press Association': 0, 'James Duffy': 0, 'J.B. Piet': 0, 'Paulist Press': 0}

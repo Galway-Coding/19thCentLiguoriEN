@@ -1,0 +1,7 @@
+orted Source Places: [('New York', 53), ('Cincinnati', 46), ('Chicago', 46), ('London', 46), ('Dublin', 40), ('St. Louis', 2)]
+Sorted Target Places: [('New York', 51), ('London', 45), ('Cincinnati', 43), ('Chicago', 43), ('Dublin', 40), ('Los Angeles', 2), ('nan', 1), ('Brooklyn, St Louis', 1)]
+Sorted Overall Places: [('New York', 104), ('London', 91), ('Cincinnati', 89), ('Chicago', 89), ('Dublin', 80), ('Los Angeles', 2), ('St. Louis', 2), ('nan', 1), ('Brooklyn, St Louis', 1)]
+
+Sorted Source Places (Weighted): [('New York', 67), ('Cincinnati', 60), ('Chicago', 60), ('London', 58), ('Dublin', 52), ('St. Louis', 2)]
+Sorted Target Places (Weighted): [('New York', 65), ('London', 57), ('Cincinnati', 55), ('Chicago', 55), ('Dublin', 52), ('Los Angeles', 2), ('nan', 1), ('Brooklyn, St Louis', 1)]
+Sorted Overall Places (Weighted): [('New York', 132), ('Cincinnati', 115), ('Chicago', 115), ('London', 115), ('Dublin', 104), ('Los Angeles', 2), ('St. Louis', 2), ('nan', 1), ('Brooklyn, St Louis', 1)]
