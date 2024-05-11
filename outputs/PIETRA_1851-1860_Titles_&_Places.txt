@@ -1,0 +1,9 @@
+Title and number of connections between publishers it occasioned: ('Preparation for Death', 11) | Source Places: {'New York', 'Boston'} | Target Places: {'New York', 'Louisville'}
+Title and number of connections between publishers it occasioned: ('The Love of Our Lord Jesus Christ. Reduced to Practice', 2) | Source Places: {'Baltimore'} | Target Places: {'New York'}
+Title and number of connections between publishers it occasioned: ('The Mission Book : A Manual', 1) | Source Places: {'New York'} | Target Places: {'New York'}
+Title and number of connections between publishers it occasioned: ('Duties and advantages of the religious state; or, lesser works of St. Alphonsus, relating to the religious state', 1) | Source Places: {'Pittsburg', 'Baltimore'} | Target Places: {'Pittsburg', 'Baltimore'}
+
+Title and weighted number of connections between publishers it occasioned: ('Preparation for Death', 11) | Source Places: {'New York', 'Boston'} | Target Places: {'New York', 'Louisville'}
+Title and weighted number of connections between publishers it occasioned: ('The Love of Our Lord Jesus Christ. Reduced to Practice', 2) | Source Places: {'Baltimore'} | Target Places: {'New York'}
+Title and weighted number of connections between publishers it occasioned: ('The Mission Book : A Manual', 2) | Source Places: {'New York'} | Target Places: {'New York'}
+Title and weighted number of connections between publishers it occasioned: ('Duties and advantages of the religious state; or, lesser works of St. Alphonsus, relating to the religious state', 1) | Source Places: {'Pittsburg', 'Baltimore'} | Target Places: {'Pittsburg', 'Baltimore'}

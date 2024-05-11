@@ -1,0 +1,7 @@
+Sorted Source Places: [('New York', 8), ('Boston', 4), ('Baltimore', 3), ('Pittsburg', 1)]
+Sorted Target Places: [('New York', 10), ('Louisville', 4), ('Baltimore', 1), ('Pittsburg', 1)]
+Sorted Overall Places: [('New York', 18), ('Baltimore', 4), ('Boston', 4), ('Louisville', 4), ('Pittsburg', 2)]
+
+Sorted Source Places (Weighted): [('New York', 9), ('Boston', 4), ('Baltimore', 3), ('Pittsburg', 1)]
+Sorted Target Places (Weighted): [('New York', 11), ('Louisville', 4), ('Baltimore', 1), ('Pittsburg', 1)]
+Sorted Overall Places (Weighted): [('New York', 20), ('Baltimore', 4), ('Boston', 4), ('Louisville', 4), ('Pittsburg', 2)]

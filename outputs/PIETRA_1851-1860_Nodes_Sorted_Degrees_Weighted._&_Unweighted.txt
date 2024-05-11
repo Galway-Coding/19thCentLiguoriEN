@@ -1,0 +1,72 @@
+Nodes ordered by outgoing degree:
+Thomas Sweeney 4
+J.B. Kirker 4
+Fielding Lucas, JR. 2
+P.J. Kenedy 2
+M.T. Cozans 1
+George Quigley & Co 1
+Edward Dunigan & Brother 1
+Catholic Publication Society 0
+P. O'Shea 0
+James Duffy 0
+T.W. Strong 0
+P. J. Kenedy 0
+D. & J. Sadlier & Co. 0
+J. and C. Mozley 0
+THE REFORMATION SOCIETY 0
+J.M. O'Toole 0
+P. Donahoe 0
+J. Murphy 0
+Webb and Levering 0
+D. O'Halloran 0
+H. & C. McGrath 0
+
+Nodes ordered by incoming degree:
+Edward Dunigan & Brother 6
+Webb and Levering 4
+P.J. Kenedy 3
+J.B. Kirker 1
+J. Murphy 1
+Catholic Publication Society 0
+Fielding Lucas, JR. 0
+P. O'Shea 0
+James Duffy 0
+T.W. Strong 0
+Thomas Sweeney 0
+M.T. Cozans 0
+P. J. Kenedy 0
+George Quigley & Co 0
+D. & J. Sadlier & Co. 0
+J. and C. Mozley 0
+THE REFORMATION SOCIETY 0
+J.M. O'Toole 0
+P. Donahoe 0
+D. O'Halloran 0
+H. & C. McGrath 0
+
+Nodes ordered by overall degree:
+Edward Dunigan & Brother 7
+J.B. Kirker 5
+P.J. Kenedy 5
+Thomas Sweeney 4
+Webb and Levering 4
+Fielding Lucas, JR. 2
+M.T. Cozans 1
+George Quigley & Co 1
+J. Murphy 1
+Catholic Publication Society 0
+P. O'Shea 0
+James Duffy 0
+T.W. Strong 0
+P. J. Kenedy 0
+D. & J. Sadlier & Co. 0
+J. and C. Mozley 0
+THE REFORMATION SOCIETY 0
+J.M. O'Toole 0
+P. Donahoe 0
+D. O'Halloran 0
+H. & C. McGrath 0
+
+Outgoing Weighted Degrees: {'Thomas Sweeney': 4, 'J.B. Kirker': 4, 'Fielding Lucas, JR.': 2, 'P.J. Kenedy': 2, 'M.T. Cozans': 2, 'George Quigley & Co': 1, 'Edward Dunigan & Brother': 1, 'Catholic Publication Society': 0, "P. O'Shea": 0, 'James Duffy': 0, 'T.W. Strong': 0, 'P. J. Kenedy': 0, 'D. & J. Sadlier & Co.': 0, 'J. and C. Mozley': 0, 'THE REFORMATION SOCIETY': 0, "J.M. O'Toole": 0, 'P. Donahoe': 0, 'J. Murphy': 0, 'Webb and Levering': 0, "D. O'Halloran": 0, 'H. & C. McGrath': 0}
+Incoming Weighted Degrees: {'Edward Dunigan & Brother': 7, 'Webb and Levering': 4, 'P.J. Kenedy': 3, 'J.B. Kirker': 1, 'J. Murphy': 1, 'Catholic Publication Society': 0, 'Fielding Lucas, JR.': 0, "P. O'Shea": 0, 'James Duffy': 0, 'T.W. Strong': 0, 'Thomas Sweeney': 0, 'M.T. Cozans': 0, 'P. J. Kenedy': 0, 'George Quigley & Co': 0, 'D. & J. Sadlier & Co.': 0, 'J. and C. Mozley': 0, 'THE REFORMATION SOCIETY': 0, "J.M. O'Toole": 0, 'P. Donahoe': 0, "D. O'Halloran": 0, 'H. & C. McGrath': 0}
+Overall Weighted Degrees: {'Edward Dunigan & Brother': 8, 'J.B. Kirker': 5, 'P.J. Kenedy': 5, 'Thomas Sweeney': 4, 'Webb and Levering': 4, 'Fielding Lucas, JR.': 2, 'M.T. Cozans': 2, 'George Quigley & Co': 1, 'J. Murphy': 1, 'Catholic Publication Society': 0, "P. O'Shea": 0, 'James Duffy': 0, 'T.W. Strong': 0, 'P. J. Kenedy': 0, 'D. & J. Sadlier & Co.': 0, 'J. and C. Mozley': 0, 'THE REFORMATION SOCIETY': 0, "J.M. O'Toole": 0, 'P. Donahoe': 0, "D. O'Halloran": 0, 'H. & C. McGrath': 0}
