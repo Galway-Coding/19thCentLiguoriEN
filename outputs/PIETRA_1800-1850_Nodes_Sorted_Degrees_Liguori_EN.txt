@@ -1,0 +1,44 @@
+Nodes ordered by outgoing degree:
+James Duffy 5
+Fielding Lucas, JR. 3
+Flynn & Mahony 2
+John Coyne 1
+Uknown 0
+Thomas Richardson & Son 0
+Thomas Sweeney 0
+E. Cummiskey 0
+P. Donahoe 0
+T.B. Noonan 0
+Richard Grace 0
+H. & C. McGrath 0
+C. Wildermann 0
+
+Nodes ordered by incoming degree:
+Richard Grace 6
+Uknown 1
+Thomas Sweeney 1
+Fielding Lucas, JR. 1
+H. & C. McGrath 1
+C. Wildermann 1
+James Duffy 0
+Thomas Richardson & Son 0
+Flynn & Mahony 0
+E. Cummiskey 0
+P. Donahoe 0
+John Coyne 0
+T.B. Noonan 0
+
+Nodes ordered by overall degree:
+Richard Grace 6
+James Duffy 5
+Fielding Lucas, JR. 4
+Flynn & Mahony 2
+Uknown 1
+Thomas Sweeney 1
+John Coyne 1
+H. & C. McGrath 1
+C. Wildermann 1
+Thomas Richardson & Son 0
+E. Cummiskey 0
+P. Donahoe 0
+T.B. Noonan 0

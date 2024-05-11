@@ -1,0 +1,7 @@
+Sorted Source Places: [('Dublin', 6), ('Baltimore', 3), ('New York', 2), ('Boston', 2)]
+Sorted Target Places: [('Dublin', 6), ('Boston', 2), ('nan', 1), ('Baltimore', 1), ('Philadelphia', 1), ('New York', 1)]
+Sorted Overall Places: [('Dublin', 12), ('Baltimore', 4), ('Boston', 4), ('New York', 3), ('nan', 1), ('Philadelphia', 1)]
+
+Sorted Source Places (Weighted): [('Dublin', 6), ('New York', 3), ('Boston', 3), ('Baltimore', 3)]
+Sorted Target Places (Weighted): [('Dublin', 6), ('Boston', 3), ('nan', 1), ('Baltimore', 1), ('Philadelphia', 1), ('New York', 1)]
+Sorted Overall Places (Weighted): [('Dublin', 12), ('Boston', 6), ('Baltimore', 4), ('New York', 4), ('nan', 1), ('Philadelphia', 1)]

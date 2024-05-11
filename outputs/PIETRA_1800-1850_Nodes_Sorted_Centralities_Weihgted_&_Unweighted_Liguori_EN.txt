@@ -1,0 +1,71 @@
+sorted closeness
+[('Thomas Sweeney', 0.4444444444444444),
+ ('H. & C. McGrath', 0.14814814814814814),
+ ('James Duffy', 0.1111111111111111),
+ ('Flynn & Mahony', 0.1111111111111111),
+ ('C. Wildermann', 0.1111111111111111),
+ ('E. Cummiskey', 0.0),
+ ('P. Donahoe', 0.0),
+ ('T.B. Noonan', 0.0),
+ ('John Coyne', 0.0),
+ ('Fielding Lucas, JR.', 0.0)]
+ 
+ sorted betweenness
+ [('James Duffy', 0.013888888888888888),
+ ('H. & C. McGrath', 0.0),
+ ('Flynn & Mahony', 0.0),
+ ('Thomas Sweeney', 0.0),
+ ('C. Wildermann', 0.0),
+ ('E. Cummiskey', 0.0),
+ ('P. Donahoe', 0.0),
+ ('T.B. Noonan', 0.0),
+ ('John Coyne', 0.0),
+ ('Fielding Lucas, JR.', 0.0)]
+ 
+ sorted_eigenvector
+ [('Thomas Sweeney', 0.8164969621298832),
+ ('Flynn & Mahony', 0.40824790922835874),
+ ('C. Wildermann', 0.40824790922835874),
+ ('H. & C. McGrath', 7.324374954565523e-06),
+ ('James Duffy', 6.083367902463061e-07),
+ ('E. Cummiskey', 2.433347160985224e-08),
+ ('P. Donahoe', 2.433347160985224e-08),
+ ('T.B. Noonan', 2.433347160985224e-08),
+ ('John Coyne', 2.433347160985224e-08),
+ ('Fielding Lucas, JR.', 2.433347160985224e-08)]
+ 
+ sorted weighted closeness
+ [('Thomas Sweeney', 0.2222222222222222),
+ ('H. & C. McGrath', 0.1111111111111111),
+ ('Flynn & Mahony', 0.1111111111111111),
+ ('C. Wildermann', 0.1111111111111111),
+ ('James Duffy', 0.05555555555555555),
+ ('E. Cummiskey', 0.0),
+ ('P. Donahoe', 0.0),
+ ('T.B. Noonan', 0.0),
+ ('John Coyne', 0.0),
+ ('Fielding Lucas, JR.', 0.0)]
+ 
+ sorted_weighted_betweenness
+ [('James Duffy', 0.013888888888888888),
+ ('H. & C. McGrath', 0.0),
+ ('Flynn & Mahony', 0.0),
+ ('Thomas Sweeney', 0.0),
+ ('C. Wildermann', 0.0),
+ ('E. Cummiskey', 0.0),
+ ('P. Donahoe', 0.0),
+ ('T.B. Noonan', 0.0),
+ ('John Coyne', 0.0),
+ ('Fielding Lucas, JR.', 0.0)]
+ 
+ sorted_weighted_eigenvector
+ [('Thomas Sweeney', 0.942809186723073),
+ ('Flynn & Mahony', 0.23570197004309468),
+ ('C. Wildermann', 0.23570197004309468),
+ ('H. & C. McGrath', 8.10623387782965e-06),
+ ('James Duffy', 6.883976776666428e-07),
+ ('E. Cummiskey', 1.404893219727842e-08),
+ ('P. Donahoe', 1.404893219727842e-08),
+ ('T.B. Noonan', 1.404893219727842e-08),
+ ('John Coyne', 1.404893219727842e-08),
+ ('Fielding Lucas, JR.', 1.404893219727842e-08)]

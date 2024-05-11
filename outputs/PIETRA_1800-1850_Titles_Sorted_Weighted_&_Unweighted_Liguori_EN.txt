@@ -1,0 +1,12 @@
+Title and number of connections between publishers it occasioned: ('The Love of Our Lord Jesus Christ. Reduced to Practice', 3) | Source Places: {'Baltimore', 'Dublin'} | Target Places: {'Baltimore', 'Dublin'}
+Title and number of connections between publishers it occasioned: ('A Short Treatise on Prayer', 3) | Source Places: {'Baltimore', 'Dublin'} | Target Places: {'Dublin'}
+Title and number of connections between publishers it occasioned: ('Instructions on the Commandments', 2) | Source Places: {'New York', 'Boston'} | Target Places: {'New York', 'Boston'}
+Title and number of connections between publishers it occasioned: ('Visits to the Most Holy Sacrament', 1) | Source Places: {'Dublin'} | Target Places: {'nan'}
+Title and number of connections between publishers it occasioned: ('Examen of Conscience', 1) | Source Places: {'Dublin'} | Target Places: {'Philadelphia'}
+Title and number of connections between publishers it occasioned: ('The Spirit Of Blessed Alphonsus De Liguori', 1) | Source Places: {'Baltimore'} | Target Places: {'Dublin'}
+Title and weighted number of connections between publishers it occasioned: ('The Love of Our Lord Jesus Christ. Reduced to Practice', 3) | Source Places: {'Baltimore', 'Dublin'} | Target Places: {'Baltimore', 'Dublin'}
+Title and weighted number of connections between publishers it occasioned: ('A Short Treatise on Prayer', 3) | Source Places: {'Baltimore', 'Dublin'} | Target Places: {'Dublin'}
+Title and weighted number of connections between publishers it occasioned: ('Instructions on the Commandments', 3) | Source Places: {'New York', 'Boston'} | Target Places: {'New York', 'Boston'}
+Title and weighted number of connections between publishers it occasioned: ('Visits to the Most Holy Sacrament', 1) | Source Places: {'Dublin'} | Target Places: {'nan'}
+Title and weighted number of connections between publishers it occasioned: ('Examen of Conscience', 1) | Source Places: {'Dublin'} | Target Places: {'Philadelphia'}
+Title and weighted number of connections between publishers it occasioned: ('The Spirit Of Blessed Alphonsus De Liguori', 1) | Source Places: {'Baltimore'} | Target Places: {'Dublin'}
