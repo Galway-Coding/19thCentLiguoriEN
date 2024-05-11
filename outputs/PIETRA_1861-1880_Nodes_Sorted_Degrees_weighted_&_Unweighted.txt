@@ -1,0 +1,69 @@
+Nodes ordered by outgoing degree:
+J. Murphy 1
+Benziger Brothers 1
+James Duffy 1
+D. & J. Sadlier & Co. 1
+P. Donahoe 0
+M. Sullivan 0
+Augustin Coté & Co. 0
+J.B. Kirker 0
+Burns and Oates 0
+P. O'Shea 0
+Felix O'Rourke 0
+H. & C. McGrath 0
+William McSorley & Co. 0
+Fr. Pustet 0
+P.F. Cunningham 0
+J.B. Lippincott 0
+C.M. Warren 0
+J.B. Piet 0
+Catholic Publication Society 0
+Richard Grace 0
+
+Nodes ordered by incoming degree:
+P. Donahoe 1
+Burns and Oates 1
+C.M. Warren 1
+Catholic Publication Society 1
+J. Murphy 0
+M. Sullivan 0
+Augustin Coté & Co. 0
+Benziger Brothers 0
+J.B. Kirker 0
+James Duffy 0
+P. O'Shea 0
+Felix O'Rourke 0
+D. & J. Sadlier & Co. 0
+H. & C. McGrath 0
+William McSorley & Co. 0
+Fr. Pustet 0
+P.F. Cunningham 0
+J.B. Lippincott 0
+J.B. Piet 0
+Richard Grace 0
+
+Nodes ordered by overall degree:
+J. Murphy 1
+P. Donahoe 1
+Benziger Brothers 1
+James Duffy 1
+Burns and Oates 1
+D. & J. Sadlier & Co. 1
+C.M. Warren 1
+Catholic Publication Society 1
+M. Sullivan 0
+Augustin Coté & Co. 0
+J.B. Kirker 0
+P. O'Shea 0
+Felix O'Rourke 0
+H. & C. McGrath 0
+William McSorley & Co. 0
+Fr. Pustet 0
+P.F. Cunningham 0
+J.B. Lippincott 0
+J.B. Piet 0
+Richard Grace 0
+
+Outgoing Weighted Degrees: {'J. Murphy': 1, 'Benziger Brothers': 1, 'James Duffy': 1, 'D. & J. Sadlier & Co.': 1, 'P. Donahoe': 0, 'M. Sullivan': 0, 'Augustin Coté & Co.': 0, 'J.B. Kirker': 0, 'Burns and Oates': 0, "P. O'Shea": 0, "Felix O'Rourke": 0, 'H. & C. McGrath': 0, 'William McSorley & Co.': 0, 'Fr. Pustet': 0, 'P.F. Cunningham': 0, 'J.B. Lippincott': 0, 'C.M. Warren': 0, 'J.B. Piet': 0, 'Catholic Publication Society': 0, 'Richard Grace': 0}
+Incoming Weighted Degrees: {'P. Donahoe': 1, 'Burns and Oates': 1, 'C.M. Warren': 1, 'Catholic Publication Society': 1, 'J. Murphy': 0, 'M. Sullivan': 0, 'Augustin Coté & Co.': 0, 'Benziger Brothers': 0, 'J.B. Kirker': 0, 'James Duffy': 0, "P. O'Shea": 0, "Felix O'Rourke": 0, 'D. & J. Sadlier & Co.': 0, 'H. & C. McGrath': 0, 'William McSorley & Co.': 0, 'Fr. Pustet': 0, 'P.F. Cunningham': 0, 'J.B. Lippincott': 0, 'J.B. Piet': 0, 'Richard Grace': 0}
+Overall Weighted Degrees: {'J. Murphy': 1, 'P. Donahoe': 1, 'Benziger Brothers': 1, 'James Duffy': 1, 'Burns and Oates': 1, 'D. & J. Sadlier & Co.': 1, 'C.M. Warren': 1, 'Catholic Publication Society': 1, 'M. Sullivan': 0, 'Augustin Coté & Co.': 0, 'J.B. Kirker': 0, "P. O'Shea": 0, "Felix O'Rourke": 0, 'H. & C. McGrath': 0, 'William McSorley & Co.': 0, 'Fr. Pustet': 0, 'P.F. Cunningham': 0, 'J.B. Lippincott': 0, 'J.B. Piet': 0, 'Richard Grace': 0}

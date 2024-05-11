@@ -1,0 +1,8 @@
+Title and number of connections between publishers it occasioned: ('Preparation for Death', 1) | Source Places: {'Baltimore'} | Target Places: {'Boston'}
+Title and number of connections between publishers it occasioned: ('The Glories of Mary', 1) | Source Places: {'London', 'New York'} | Target Places: {'London', 'New York'}
+Title and number of connections between publishers it occasioned: ('Instructions on the Commandments', 1) | Source Places: {'Dublin'} | Target Places: {'Dublin'}
+Title and number of connections between publishers it occasioned: ('Hours or Clock of the Passion', 1) | Source Places: {'New York', 'Montreal'} | Target Places: {'New York'}
+Title and weighted number of connections between publishers it occasioned: ('Preparation for Death', 1) | Source Places: {'Baltimore'} | Target Places: {'Boston'}
+Title and weighted number of connections between publishers it occasioned: ('The Glories of Mary', 1) | Source Places: {'London', 'New York'} | Target Places: {'London', 'New York'}
+Title and weighted number of connections between publishers it occasioned: ('Instructions on the Commandments', 1) | Source Places: {'Dublin'} | Target Places: {'Dublin'}
+Title and weighted number of connections between publishers it occasioned: ('Hours or Clock of the Passion', 1) | Source Places: {'New York', 'Montreal'} | Target Places: {'New York'}

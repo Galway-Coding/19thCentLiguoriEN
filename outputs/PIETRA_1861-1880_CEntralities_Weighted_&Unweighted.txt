@@ -1,0 +1,49 @@
+sorted closeness
+[('P. Donahoe', 0.23076923076923078),
+ ('Benziger Brothers', 0.07692307692307693),
+ ('Burns and Oates', 0.07692307692307693),
+ ('C.M. Warren', 0.07692307692307693),
+ ('J. Murphy', 0.0),
+ ('J.B. Lippincott', 0.0),
+ ('James Duffy', 0.0),
+ ('Catholic Publication Society', 0.0),
+ ('J.B. Kirker', 0.0),
+ ('P.F. Cunningham', 0.0),
+ ('D. & J. Sadlier & Co.', 0.0),
+ ('H. & C. McGrath', 0.0),
+ ("P. O'Shea", 0.0),
+ ('Fr. Pustet', 0.0)]
+ 
+ sorted betweenness
+ [('Benziger Brothers', 0.0),
+ ('Burns and Oates', 0.0),
+ ('J. Murphy', 0.0),
+ ('P. Donahoe', 0.0),
+ ('J.B. Lippincott', 0.0),
+ ('James Duffy', 0.0),
+ ('C.M. Warren', 0.0),
+ ('Catholic Publication Society', 0.0),
+ ('J.B. Kirker', 0.0),
+ ('P.F. Cunningham', 0.0),
+ ('D. & J. Sadlier & Co.', 0.0),
+ ('H. & C. McGrath', 0.0),
+ ("P. O'Shea", 0.0),
+ ('Fr. Pustet', 0.0)]
+ 
+ sorted eigenvector
+ [('Benziger Brothers', 0.7071067811727659),
+ ('Burns and Oates', 0.7071067811727659),
+ ('P. Donahoe', 5.900558791410165e-06),
+ ('C.M. Warren', 2.023048728483484e-06),
+ ('J. Murphy', 8.429369702014517e-08),
+ ('J.B. Lippincott', 8.429369702014517e-08),
+ ('James Duffy', 8.429369702014517e-08),
+ ('Catholic Publication Society', 8.429369702014517e-08),
+ ('J.B. Kirker', 8.429369702014517e-08),
+ ('P.F. Cunningham', 8.429369702014517e-08),
+ ('D. & J. Sadlier & Co.', 8.429369702014517e-08),
+ ('H. & C. McGrath', 8.429369702014517e-08),
+ ("P. O'Shea", 8.429369702014517e-08),
+ ('Fr. Pustet', 8.429369702014517e-08)]
+ 
+ Weighted values are the same as unweighted
